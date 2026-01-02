@@ -1,0 +1,14 @@
+{
+  "vehicle_count": {
+    "in": 4,
+    "out": 5,
+    "by_class_in": {
+      "bus": 2,
+      "car": 2
+    },
+    "by_class_out": {
+      "car": 5
+    }
+  },
+  "plates": {
+    
