@@ -30,7 +30,7 @@ plate_reader = PlateReader()
 # GUI
 # =======================
 root = tk.Tk()
-root.title("Giám sát giao thông (OFFLINE)")
+root.title("Hệ thống giám sát giao thông ")
 root.geometry("1000x700")
 root.resizable(False, False)
 
